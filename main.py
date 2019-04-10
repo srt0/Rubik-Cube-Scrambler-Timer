@@ -30,18 +30,14 @@ def scrambler():
 
 
 def timer():
-    t1 = time.time()
     e = input('press ENTER to start timer')
-    if e == '':
-        t1 = time.time()
+    t1 = time.time()
     print()
     print('TIMER STARTED')
     print()
     e = input('press ENTER to stop timer')
+    t2 = time.time()
     print()
-    if e == '':
-        t2 = time.time()
-
     print('TIMER STOPPED')
     print()
     m = int(t2 - t1) // 60
