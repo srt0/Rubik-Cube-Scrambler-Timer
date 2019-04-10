@@ -4,16 +4,13 @@ Goal of this project is to create a python programme which generates scramble st
 
 ## List of elements of a scrambler string
 
-L L2 L'
-R R2 R'
-F F2 F'
-B B2 B'
-U U2 U'
-D D2 D'
+- *L L2 L'*
+- *R R2 R'*
+- *F F2 F'*
+- *B B2 B'*
+- *U U2 U'*
+- *D D2 D'*
 
 ## Done
--- Scrambler Function
--- Timer Function
-
-
-# ToDo
+- Scrambler Function
+- Timer Function
